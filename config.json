@@ -1,0 +1,6 @@
+{
+  "env": "development",
+  "nats": {
+    "url": "localhost:4222"
+  }
+}
