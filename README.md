@@ -4,9 +4,9 @@ Event Driven Microservice based in [Nats](https://github.com/nats-io/nats-server
 
 ## Getting started
 
-- docker-compose up (In case you don't have a nats server to connect)
-- go build
-- go run main.go
+1. docker-compose up (In case you don't have a nats server to connect)
+2. go build
+3. go run main.go
 
 ### Requisites
 
